@@ -49,7 +49,7 @@ http://localhost/lab7_php_dasar/
 Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat
 kode seperti berikut.
 
-![image](https://github.com/Alifiananda06/Lab7Web/assets/115884834/bb23ed30-c870-46f0-aee9-cc3429d33e78)
+![image](https://github.com/Alifiananda06/Lab7Web/assets/115884834/0bf89d37-8b1a-47fd-9cdd-56009457c07b)
 
 
 Kemudian untuk mengakses hasilnya melalui URL:
