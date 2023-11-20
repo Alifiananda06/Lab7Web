@@ -65,6 +65,9 @@ Menambahkan variable pada program.
 ![image](https://github.com/Alifiananda06/Lab7Web/assets/115884834/f27fef38-1144-43f7-a3b6-5dc834e6617a)
 
 
+![image](https://github.com/Alifiananda06/Lab7Web/assets/115884834/a3209611-6ae1-46bd-83ec-0fd35bff12c3)
+
+
 # Predefine Variable $_GET
 
 ![image](https://github.com/Alifiananda06/Lab7Web/assets/115884834/cb9b195a-c564-47d6-b5d3-24459afe4e03)
